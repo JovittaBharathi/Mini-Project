@@ -1,17 +1,17 @@
-Employee_ID,Age,Department,Job_Role,Gender,Monthly_Income,Years_At_Company,Education_Level,Training_Hours,Performance_Score,Leave_Days_Taken,Attendance_Rate_Pct,Attrition
-EMP0001,40,Research & Development,Senior Scientist,Male,12683,5,Bachelor,60,4.1,11,97,No
+Employee_ID,Age,Department,job_role,Gener,Monthly_Income,Years_At_Company,Education_Level,Traininghours,Performance_Score,Leave_Daystaken,Attendance_Rate_Pct,Attrition
+EMP0001,40,Research & development,Senior Scientist,Male,12683,5,Bachelor,60,4.1,11,97,No
 EMP0002,28,Human Resources,HR Associate,Female,4582,5,College,40,4.4,10,97.3,No
-EMP0003,30,Research & Development,Senior Scientist,Female,11939,7,Below College,12,4,15,94.7,Yes
-EMP0004,25,Research & Development,Healthcare Representative,Male,6242,3,College,15,4.1,10,95.8,No
+EMP0003,30,Research & development,Senior Scientist,Female,11939,7,Below College,12,4,15,94.7,Yes
+EMP0004,25,Research & development,Healthcare Representative,Male,6242,3,College,15,4.1,10,95.8,No
 EMP0005,31,Sales,Sales Executive,Male,3213,6,Doctorate,13,2.7,8,97.7,No
 EMP0006,22,Sales,Sales Executive,Male,6471,0,Master,60,2.5,12,96.3,Yes
 EMP0007,29,Sales,Sales Executive,Female,6275,0,Doctorate,16,3.7,7,97.6,Yes
 EMP0008,39,Research & Development,Senior Scientist,Male,14390,15,Bachelor,42,3.5,5,98.7,No
-EMP0009,33,Research & Development,Laboratory Technician,Male,3631,9,College,60,3.3,11,95.7,No
+EMP0009,33,Research & Development,Laborary Technician,Male,3631,9,College,60,3.3,11,95.7,No
 EMP0010,43,Research & Development,Manufacturing Director,Female,9424,10,Bachelor,43,3.7,8,97.3,No
 EMP0011,48,Sales,Regional Manager,Male,15982,23,Bachelor,29,4.4,9,96.2,No
-EMP0012,42,Human Resources,HR Manager,Female,11204,18,Master,60,4.4,3,98.3,No
-EMP0013,32,Research & Development,Healthcare Representative,Male,6627,10,Below College,28,2.6,21,93.7,No
+EMP0012,42,Human Resources,HR Manager,Female,11204,18,Master,60,4.4,,98.3,No
+EMP0013,32,Research & Development,Healthcare Representative,,6627,10,Below College,28,2.6,21,93.7,No
 EMP0014,21,Sales,Sales Executive,Male,3760,0,Bachelor,34,2.4,11,96.6,Yes
 EMP0015,30,Sales,Sales Representative,Male,5868,3,College,17,3.7,18,93.6,No
 EMP0016,32,Sales,Sales Executive,Female,4408,7,Bachelor,13,2.2,6,97.5,Yes
@@ -19,22 +19,22 @@ EMP0017,21,Sales,Sales Executive,Female,3636,0,Master,60,2.9,15,96.1,Yes
 EMP0018,46,Research & Development,Manufacturing Director,Female,15136,8,Bachelor,30,3.9,7,97.4,No
 EMP0019,23,Research & Development,Healthcare Representative,Male,4983,1,Bachelor,22,3.3,13,94.8,Yes
 EMP0020,30,Sales,Regional Manager,Female,11902,7,Bachelor,16,4,6,97.6,No
-EMP0021,23,Research & Development,Healthcare Representative,Male,6080,1,Bachelor,60,3,3,97.7,Yes
+EMP0021,23,Research & Development,Heathcare Representative,Male,6080,1,Bachelor,60,3,3,97.7,Yes
 EMP0022,23,Sales,Sales Executive,Male,5497,1,Master,14,3.7,19,93.7,No
-EMP0023,30,Sales,Sales Representative,Female,5155,3,Master,50,3.4,11,96.6,No
+EMP0023,30,Sale,Sales Representative,Female,5155,3,Master,50,3.4,11,96.6,No
 EMP0024,41,Research & Development,Senior Scientist,Male,13521,8,Doctorate,60,3.8,14,96.3,No
-EMP0025,60,Research & Development,Senior Scientist,Male,9073,20,Master,12,4.3,4,98.9,No
+EMP0025,40,Research & Development,Senior Scientist,Male,9073,20,Master,12,4.3,4,98.9,No
 EMP0026,52,Research & Development,Manufacturing Director,Male,10815,11,Bachelor,21,4.1,5,97.1,No
-EMP0027,21,Sales,Sales Executive,Male,4539,0,Bachelor,14,2.1,3,97.9,Yes
-EMP0028,35,Research & Development,Senior Scientist,Male,15966,9,Bachelor,45,4,20,94.7,No
+EMP0027,21,Sales,Sales Executive,Male,4539,0,Bachelor,14,2.1,,97.9,Yes
+EMP0028,35,Research & Development,Senior Scientit,Male,15966,9,Bachelor,45,4,20,94.7,No
 EMP0029,35,Research & Development,Healthcare Representative,Female,4013,6,Bachelor,15,3.2,9,97.4,No
 EMP0030,45,Sales,Regional Manager,Male,11366,11,Master,60,3.6,2,98.7,No
 EMP0031,41,Research & Development,Senior Scientist,Female,14426,16,Below College,25,4,21,93.9,Yes
 EMP0032,36,Sales,Sales Executive,Female,7421,8,Master,21,2.2,11,96.8,Yes
 EMP0033,22,Sales,Sales Representative,Male,3601,0,Bachelor,60,3.8,7,96.8,No
-EMP0034,26,Human Resources,HR Associate,Male,5860,1,Bachelor,41,2.8,20,94.6,No
+EMP0034,26,Human Resources,HR ,Male,5860,1,Bachelor,41,2.8,20,94.6,No
 EMP0035,31,Human Resources,HR Associate,Male,3598,5,Bachelor,21,2.4,11,95.8,Yes
-EMP0036,21,Research & Development,Healthcare Representative,Female,4659,0,Master,21,3.2,17,95.2,No
+EMP0036,,Research & Development,Healthcare Representative,Female,4659,0,Master,21,3.2,17,95.2,No
 EMP0037,35,Sales,Sales Representative,Male,4874,9,Bachelor,60,2.4,3,97.9,No
 EMP0038,43,Sales,Regional Manager,Female,12440,7,Bachelor,20,4.7,3,97.6,No
 EMP0039,31,Research & Development,Laboratory Technician,Male,3163,1,Below College,46,2.3,17,94.6,No
@@ -47,12 +47,12 @@ EMP0045,42,Sales,Regional Manager,Male,9439,19,Below College,60,3.9,6,98.4,No
 EMP0046,43,Research & Development,Manufacturing Director,Female,10771,15,Below College,15,3.1,8,96.1,No
 EMP0047,25,Sales,Sales Executive,Male,4908,3,Master,32,4,21,94.2,No
 EMP0048,47,Research & Development,Manufacturing Director,Female,11915,7,Below College,60,4.1,10,96,No
-EMP0049,28,Research & Development,Laboratory Technician,Female,2767,0,Below College,28,3.5,4,98.5,Yes
+EMP0049,28,Research & Development,Laboratory Technician,Female,2767,,Below College,28,3.5,4,98.5,Yes
 EMP0050,23,Sales,Sales Executive,Male,5022,1,Below College,60,2.4,21,94.2,Yes
 EMP0051,39,Human Resources,HR Manager,Male,11817,11,Doctorate,40,4.3,7,97.7,No
 EMP0052,32,Research & Development,Laboratory Technician,Male,6616,5,Master,10,2.6,5,96.9,No
 EMP0053,37,Human Resources,HR Manager,Female,13014,14,Bachelor,46,3,5,97.3,No
-EMP0054,36,Research & Development,Senior Scientist,Female,15081,13,Bachelor,60,4.1,11,96.5,No
+EMP0054,,Research & Development,Senior Scientist,Female,15081,13,Bachelor,60,4.1,11,96.5,No
 EMP0055,40,Research & Development,Manufacturing Director,Male,13395,13,Bachelor,43,4,19,95.1,No
 EMP0056,29,Human Resources,HR Associate,Male,4857,6,Master,24,3.3,20,93.8,No
 EMP0057,34,Sales,Sales Representative,Female,5743,2,Bachelor,52,3.6,16,94.5,Yes
@@ -74,7 +74,7 @@ EMP0072,51,Sales,Regional Manager,Male,14110,9,College,23,4,2,98.2,No
 EMP0073,27,Sales,Sales Representative,Female,6817,5,Bachelor,60,3.1,18,95.1,No
 EMP0074,33,Research & Development,Laboratory Technician,Female,5359,11,Master,33,3.9,12,96.9,No
 EMP0075,26,Research & Development,Healthcare Representative,Female,4936,3,Bachelor,42,4.2,10,96.4,No
-EMP0076,26,Research & Development,Laboratory Technician,Female,4904,0,Bachelor,28,2.7,20,93.4,No
+EMP0076,26,Research & Development,Laboratory Technician,Female,4904,,Bachelor,28,2.7,20,93.4,No
 EMP0077,23,Research & Development,Healthcare Representative,Female,4423,0,Below College,60,4,17,95.3,Yes
 EMP0078,32,Sales,Sales Executive,Male,2500,10,Doctorate,36,2.2,14,95.6,No
 EMP0079,33,Research & Development,Manufacturing Director,Female,13239,6,Master,21,3.7,5,97.8,No
@@ -120,7 +120,7 @@ EMP0118,45,Sales,Regional Manager,Male,13773,14,College,10,3.1,2,97.8,No
 EMP0119,21,Research & Development,Healthcare Representative,Female,4138,0,College,12,3.8,9,97.2,Yes
 EMP0120,21,Research & Development,Laboratory Technician,Male,5055,0,Master,36,3.4,2,99,No
 EMP0121,21,Research & Development,Laboratory Technician,Male,3231,0,Master,12,3.1,18,95,Yes
-EMP0122,21,Research & Development,Laboratory Technician,Female,3296,0,College,32,3.6,7,96.9,No
+EMP0122,21,Research & Development,Laboratory Technician,Female,3296,,College,32,3.6,7,96.9,No
 EMP0123,34,Sales,Sales Executive,Male,6492,6,Bachelor,60,2.9,5,96.8,Yes
 EMP0124,32,Sales,Sales Representative,Female,6267,10,Master,20,2.8,9,97.1,No
 EMP0125,32,Sales,Sales Executive,Male,3940,10,Master,21,2.5,5,98.4,No
@@ -153,7 +153,7 @@ EMP0151,30,Human Resources,HR Associate,Male,4070,8,Bachelor,11,3,12,96.2,Yes
 EMP0152,45,Sales,Regional Manager,Female,11177,5,Below College,19,4.6,17,94.4,No
 EMP0153,59,Sales,Regional Manager,Female,14600,29,Master,27,3.3,9,97.6,No
 EMP0154,25,Research & Development,Healthcare Representative,Male,5286,0,Below College,60,4,17,95.4,Yes
-EMP0155,31,Human Resources,HR Associate,Female,3569,0,Master,24,3.2,4,98,No
+EMP0155,31,Human Resources,HR Associate,Female,3569,,Master,24,3.2,4,98,No
 EMP0156,41,Sales,Regional Manager,Male,10732,9,College,29,4.8,7,97.6,No
 EMP0157,42,Research & Development,Senior Scientist,Female,12316,5,Doctorate,39,3.8,14,96,No
 EMP0158,38,Research & Development,Senior Scientist,Male,10495,9,Bachelor,37,3.5,21,93.4,No
@@ -185,7 +185,7 @@ EMP0183,48,Human Resources,HR Manager,Male,12372,19,Bachelor,21,3.6,10,97,No
 EMP0184,34,Research & Development,Senior Scientist,Male,13887,10,Bachelor,11,3.9,15,95.9,No
 EMP0185,29,Sales,Sales Representative,Female,4463,0,Bachelor,33,3.5,21,94,No
 EMP0186,28,Research & Development,Laboratory Technician,Female,5113,6,Master,26,2.4,8,96.9,Yes
-EMP0187,23,Research & Development,Healthcare Representative,Non-Binary,4066,0,Bachelor,43,2.4,12,95.6,Yes
+EMP0187,23,Research & Development,Healthcare Representative,Non-Binary,4066,,Bachelor,43,2.4,12,95.6,Yes
 EMP0188,32,Research & Development,Healthcare Representative,Female,4805,6,Master,50,2.9,19,94.2,No
 EMP0189,43,Research & Development,Senior Scientist,Male,13607,9,Bachelor,14,3.3,5,97.5,No
 EMP0190,30,Sales,Sales Executive,Male,6286,7,Below College,26,2.2,13,94.9,No
@@ -202,7 +202,7 @@ EMP0200,22,Research & Development,Healthcare Representative,Non-Binary,7207,0,Ba
 EMP0201,28,Research & Development,Laboratory Technician,Male,4059,5,Below College,60,2.1,12,95.9,Yes
 EMP0202,51,Sales,Regional Manager,Male,14772,14,College,23,4,21,93.6,Yes
 EMP0203,35,Sales,Sales Representative,Female,5297,4,Bachelor,16,3,21,94.4,No
-EMP0204,39,Research & Development,Manufacturing Director,Male,12422,8,Master,24,4.6,16,95.3,No
+EMP0204,39,Research & Development,Manufacturing Director,Male,12422,8,Master,24,4.6,16,95.3,
 EMP0205,33,Research & Development,Healthcare Representative,Female,3160,11,Doctorate,26,3.8,2,98.7,No
 EMP0206,41,Sales,Regional Manager,Female,13651,15,Master,28,3.7,21,93,Yes
 EMP0207,29,Sales,Sales Executive,Male,5441,3,Bachelor,34,3.7,17,94.5,No
@@ -348,7 +348,7 @@ EMP0346,23,Research & Development,Laboratory Technician,Female,5792,0,Master,60,
 EMP0347,35,Research & Development,Manufacturing Director,Male,12825,12,Bachelor,60,3.5,6,96.6,No
 EMP0348,48,Sales,Regional Manager,Male,11860,19,Bachelor,15,3.6,17,94.1,No
 EMP0349,27,Research & Development,Healthcare Representative,Female,3404,4,Master,13,2.4,12,95.5,No
-EMP0350,42,Research & Development,Senior Scientist,Male,14148,14,Bachelor,38,4.1,13,95.5,No
+EMP0350,42,Research & Development,Senior Scientist,Male,14148,14,Bachelor,38,4.1,13,95.5,
 EMP0351,43,Research & Development,Manufacturing Director,Female,9522,13,Master,23,3.3,18,95.2,No
 EMP0352,56,Research & Development,Manufacturing Director,Male,11309,11,Bachelor,60,3.3,3,99,No
 EMP0353,26,Research & Development,Laboratory Technician,Male,6075,2,College,12,2.5,6,97,No
@@ -453,19 +453,19 @@ EMP0451,42,Research & Development,Manufacturing Director,Male,11633,10,Doctorate
 EMP0452,58,Research & Development,Manufacturing Director,Male,10225,12,College,38,3.8,16,94.4,No
 EMP0453,27,Research & Development,Healthcare Representative,Female,3427,1,Bachelor,15,3.8,19,94.4,Yes
 EMP0454,39,Human Resources,HR Manager,Female,10922,7,Below College,17,3.8,7,98.1,No
-EMP0455,21,Sales,Sales Representative,Male,6927,0,Master,60,3.9,5,98.1,No
+EMP0455,21,Sales,Sales Representative,Male,6927,,Master,60,3.9,5,98.1,No
 EMP0456,40,Research & Development,Manufacturing Director,Female,13778,13,Master,11,4.7,14,95.3,No
 EMP0457,34,Sales,Sales Executive,Female,7605,8,Bachelor,59,2.6,12,96,No
 EMP0458,36,Research & Development,Manufacturing Director,Male,9474,9,Master,49,3.1,15,95.4,No
 EMP0459,32,Sales,Sales Executive,Non-Binary,5969,3,Bachelor,18,4,8,98,No
 EMP0460,34,Sales,Sales Executive,Non-Binary,4297,12,Master,37,3.4,9,97.1,No
 EMP0461,25,Sales,Sales Executive,Female,4106,0,Master,40,2.4,16,95.5,Yes
-EMP0462,34,Research & Development,Laboratory Technician,Male,4939,0,Master,58,3.4,16,95.1,Yes
+EMP0462,34,Research  Development,Laboratory Technician,Male,4939,0,Master,58,3.4,16,95.1,Yes
 EMP0463,22,Research & Development,Laboratory Technician,Female,4169,0,Below College,14,3.8,3,99,No
 EMP0464,33,Research & Development,Laboratory Technician,Male,4752,5,Doctorate,38,4.5,16,94,No
 EMP0465,28,Human Resources,HR Associate,Male,3282,4,Master,60,2.4,10,97.1,No
-EMP0466,22,Research & Development,Laboratory Technician,Male,3328,0,Bachelor,18,2.4,10,96.4,No
-EMP0467,26,Sales,Sales Representative,Male,5424,0,Master,35,4.2,13,95.9,No
+EMP0466,22,Research & Development,Laboratory technician,Male,3328,0,Bachelor,18,2.4,10,96.4,No
+EMP0467,26,Sales,Sales Representative,Male,5424,,Master,35,4.2,13,95.9,No
 EMP0468,38,Research & Development,Manufacturing Director,Female,12514,9,Bachelor,32,4.1,21,93,No
 EMP0469,28,Sales,Sales Executive,Female,5894,5,Master,22,2.8,2,98.1,No
 EMP0470,44,Human Resources,HR Manager,Female,12228,6,College,11,4.1,12,95.7,No
